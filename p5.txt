@@ -1,0 +1,33 @@
+1. $ to mmk
+2. mmk to $
+3. any to any currencies
+--------------------------
+
+1 USD = 1850 mmk
+1mmk = 1/1850 USD
+
+300 USD to mmk 
+
+300 * (1850 mmk)
+ 555000
+ ---------------------
+
+ 768000 mmk
+
+ 768000 * (1/1850 USD)
+
+ 451.13 USD
+
+ ------------------------
+ any to any
+
+350 USD to SGD 
+
+1 USD = 1850 mmk
+1 SGD = 1337 mmk
+1mmk = 1/1337 SGD
+
+USD => mmk => SGD
+
+350 *  1850 mmk = 647500 mmk
+647500 (1/1337) SGD = 484.29 SGD

@@ -1,0 +1,10 @@
+rice 1 pyi = 2500 mmk
+oil => 1kg = 5000 mmk
+chicken => 1kg = 3000 mmk 
+
+
+6 pyi * 2500 mmk = 15000 mmk 
+2kg * 5000 mmk = 10000 
+3kg * 3000 mmk = 9000
+--------------------------------
+total = 34000 mmk 
