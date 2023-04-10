@@ -1,0 +1,16 @@
+adding
+--------
+
+day 1 = 5000
+day 2 = 4000
+
+============
+total = 9000
+
+multiply
+---------
+4000 mmk= 1day 
+ 
+ 1month = 30days
+
+ 30 * 4000 = 12000 mmk
