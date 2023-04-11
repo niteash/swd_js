@@ -56,8 +56,28 @@
         }
         run();
 
-        function add (x,y){
+        function add (x=0,y=0){
+            console.log(x);
+            console.log(y);
             return x + y ; 
+
+        }
+
+        function CalcArea(width,breadth){
+            return (width * breadth) + "sqft";
+
+        }
+
+        // USD to MMk
+
+        function toMMK(amount , rate){
+            return amount * rate + "MMK";
+        }
+
+        // MMK to USD
+        
+        function toUSD (amount , rate){
+            return amount * 1/rate  + " "+ "USD"
         }
     </script>
 
